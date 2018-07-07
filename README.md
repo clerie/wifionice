@@ -7,13 +7,16 @@ Raspberry PI Zero W als unendlichen ICE Wlan Hotspot konfigurieren
 - Mikro-USB-Kabel
 
 ## Konfigurationsschritte
+
 Dies muss Headless passieren
 1. Wlan
 2. SSH
 3. Ethernet über USB-OTG
+
 Dies kann über SSH passieren
 4. ICE Wlan einrichten
 5. (OpenVPN einrichten)
+
 Dies passiert im Hintergrund
 6. MAC-Adressen bei Bedarf ändern
 
